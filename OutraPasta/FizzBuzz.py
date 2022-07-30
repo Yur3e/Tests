@@ -10,3 +10,5 @@ def fb(n):
             print(n)
 
 fb(100)
+
+print()
